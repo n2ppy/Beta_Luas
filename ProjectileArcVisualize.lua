@@ -13,9 +13,9 @@ local config = {
 	polygon = {
 		enabled = true;
 		r = 255;
-		g = 200;
-		b = 155;
-		a = 50;
+		g = 255;
+		b = 255;
+		a = 255;
 
 		size = 10;
 		segments = 20;
