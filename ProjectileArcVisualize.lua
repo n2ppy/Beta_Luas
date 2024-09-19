@@ -13,8 +13,8 @@ local config = {
 	polygon = {
 		enabled = true;
 		r = 255;
-		g = 200;
-		b = 155;
+		g = 255;
+		b = 255;
 		a = 50;
 
 		size = 10;
