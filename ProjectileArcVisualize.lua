@@ -12,9 +12,9 @@
 local config = {
 	polygon = {
 		enabled = true;
-		r = 255;
-		g = 200;
-		b = 155;
+		r = 126;
+		g = 0;
+		b = 214;
 		a = 50;
 
 		size = 10;
@@ -31,9 +31,9 @@ local config = {
 
 	flags = {
 		enabled = true;
-		r = 255;
+		r = 120;
 		g = 0;
-		b = 0;
+		b = 255;
 		a = 255;
 
 		size = 5;
