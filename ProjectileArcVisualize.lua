@@ -14,7 +14,7 @@ local config = {
 		enabled = true;
 		r = 255;
 		g = 255;
-		b = 155;
+		b = 255;
 		a = 50;
 
 		size = 10;
@@ -42,9 +42,9 @@ local config = {
 	outline = {
 		line_and_flags = true;
 		polygon = true;
-		r = 0;
-		g = 0;
-		b = 0;
+		r = 255;
+		g = 255;
+		b = 255;
 		a = 155;
 	};
 
