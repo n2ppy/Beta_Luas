@@ -17,7 +17,7 @@ local config = {
 		b = 255;
 		a = 50;
 
-		size = 10;
+		size = 20;
 		segments = 4;
 	};
 	
@@ -32,8 +32,8 @@ local config = {
 	flags = {
 		enabled = true;
 		r = 255;
-		g = 0;
-		b = 0;
+		g = 255;
+		b = 255;
 		a = 0;
 
 		size = 5;
@@ -45,7 +45,7 @@ local config = {
 		r = 255;
 		g = 255;
 		b = 255;
-		a = 155;
+		a = 255;
 	};
 
 	-- 0.5 to 8, determines the size of the segments traced, lower values = worse performance (default 2.5)
