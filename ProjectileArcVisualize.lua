@@ -13,12 +13,12 @@ local config = {
 	polygon = {
 		enabled = true;
 		r = 255;
-		g = 200;
+		g = 255;
 		b = 155;
 		a = 50;
 
 		size = 10;
-		segments = 20;
+		segments = 4;
 	};
 	
 	line = {
@@ -34,7 +34,7 @@ local config = {
 		r = 255;
 		g = 0;
 		b = 0;
-		a = 255;
+		a = 0;
 
 		size = 5;
 	};
