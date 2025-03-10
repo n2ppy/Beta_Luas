@@ -12,13 +12,13 @@
 local config = {
 	polygon = {
 		enabled = true;
-		r = 255;
-		g = 200;
-		b = 155;
-		a = 50;
+		r = 162;
+		g = 0;
+		b = 87;
+		a = 155;
 
 		size = 10;
-		segments = 20;
+		segments = 6;
 	};
 	
 	line = {
@@ -31,9 +31,9 @@ local config = {
 
 	flags = {
 		enabled = true;
-		r = 255;
+		r = 162;
 		g = 0;
-		b = 0;
+		b = 87;
 		a = 255;
 
 		size = 5;
@@ -42,10 +42,10 @@ local config = {
 	outline = {
 		line_and_flags = true;
 		polygon = true;
-		r = 0;
-		g = 0;
-		b = 0;
-		a = 155;
+		r = 255;
+		g = 255;
+		b = 255;
+		a = 255;
 	};
 
 	-- 0.5 to 8, determines the size of the segments traced, lower values = worse performance (default 2.5)
